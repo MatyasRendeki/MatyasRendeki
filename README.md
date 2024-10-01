@@ -14,7 +14,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/m%C3%A1ty%C3%A1s-rendeki-841118292/](https://www.linkedin.com/in/m%C3%A1ty%C3%A1s-rendeki-841118292/)
 
 - ⚡ Fun fact **I used to be a medical student before diving into the world of AI!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
